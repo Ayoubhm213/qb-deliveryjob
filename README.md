@@ -63,7 +63,7 @@ Complete the delivery
 Return the truck to get paid
 
 🤝 Support
-Join our Discord server
+Join our Discord server : [ASTRA Shops](https://discord.gg/9QYPbCbusr).
 
 📜 License
 This project is licensed under the MIT License
